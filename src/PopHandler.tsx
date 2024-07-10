@@ -1,4 +1,4 @@
-import Drawer from 'corvu/drawer';
+import Drawer from '@corvu/drawer';
 import { onCleanup, onMount } from 'solid-js';
 
 const PopHandler = () => {
